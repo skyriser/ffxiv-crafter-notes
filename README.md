@@ -6,3 +6,4 @@
 
 - [概要](basics.md)
 - [アクション](actions.md)
+- [レベル上げ](leveling.md)
