@@ -5,5 +5,6 @@
 ## 目次
 
 - [概要](basics.md)
-- [アクション](actions.md)
+- [アクション&スキル回し](actions.md)
 - [レベル上げ](leveling.md)
+- 分解 (まだやってないよ)
